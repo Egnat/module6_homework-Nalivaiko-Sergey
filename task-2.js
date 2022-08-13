@@ -8,9 +8,9 @@ return "ошибка";
 }
 }
 
-if (numArr %2 == 1) {
+if ( 13 % 5)  {
 return "simple"; 
-}else if(numArr %3 !== 2) { 
+}else if( 2 % 3) { 
 return "no simple"; 
 }
 }
